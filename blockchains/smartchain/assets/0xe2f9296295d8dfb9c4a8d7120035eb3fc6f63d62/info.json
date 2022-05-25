@@ -1,0 +1,10 @@
+    "name": "ENDERMAN",
+    "website": "https://enderman.finance",
+    "description": "ENDERMAN is a Utility token for the Enderman Exchange and for Minecraft players",
+    "explorer": "https://bscscan.com/token/0xe2f9296295d8dfb9c4a8d7120035eb3fc6f63d62",
+    "type": "BEP20",
+    "symbol": "END",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe2f9296295d8dfb9c4a8d7120035eb3fc6f63d62"
+}
